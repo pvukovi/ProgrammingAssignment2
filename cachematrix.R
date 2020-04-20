@@ -4,6 +4,7 @@
 ## makeCacheMatrix
 
 makeCacheMatrix <- function(x = matrix()) {
+  # Comment
   j <- NULL
   set <- function(y){
     x <<- y
